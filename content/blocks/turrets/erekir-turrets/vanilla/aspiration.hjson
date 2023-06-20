@@ -16,9 +16,9 @@ type: MultiEffect
 effects: [shootBigColor, colorSparkBig]
 }
 smokeEffect: shootBigSmoke
-ammoMultiplier: 1
+ammoMultiplier: 10
 speed: 12
-damage: 120
+damage: 220
 hitColor: b1dd7e
 trailColor: b1dd7e
 lifetime: 40
@@ -59,11 +59,11 @@ effects: [shootBigColor, colorSparkBig]
 }
 smokeEffect: shootBigSmoke
 ammoMultiplier: 2
-reloadMultiplier: 0.7
+reloadMultiplier: 15
 status: cut
 statusDuration: 1
 speed: 12
-damage: 180
+damage: 280
 hitColor: 768a9a
 trailColor: 768a9a
 lifetime: 40
@@ -106,9 +106,9 @@ effects: [shootBigColor, colorSparkBig]
 }
 smokeEffect: shootBigSmoke
 ammoMultiplier: 5
-reloadMultiplier: 0.7
+reloadMultiplier: 12.5
 speed: 12
-damage: 145
+damage: 240
 hitColor: 8d8f96
 trailColor: 8d8f96
 lifetime: 40
